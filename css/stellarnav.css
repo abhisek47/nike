@@ -129,7 +129,7 @@ body.stellarnav-noscroll-x { overflow-x: hidden; }
 
 /* left and right positions */
 .stellarnav.mobile.right > ul, .stellarnav.mobile.left > ul { position: fixed; top: 0; bottom: 0; width: 100%; max-width: 280px; overflow-x: hidden; overflow-y: auto; -webkit-overflow-scrolling: touch; }
-.stellarnav.mobile.right > ul { left: 0; }
+.stellarnav.mobile.right > ul { left: 0 !important ; }
 .stellarnav.mobile.right .close-menu, .stellarnav.mobile.left .close-menu { display: inline-block; text-align: right; }
 .stellarnav.mobile.left > ul { left: 0; }
 .stellarnav.mobile.right .location-btn-mobile.half, .stellarnav.mobile.right .call-btn-mobile.half, .stellarnav.mobile.right .close-menu.half { text-align: center; }
