@@ -234,16 +234,15 @@
     margin-left: 5px;
   }
   
-  .active:after {
-    content: "\2212";
-  }
   .product-detail li{
       margin-top: 1em;
   }
+
   .product-detail a{
     text-decoration: none;
     color: #333 !important;
   }
+
   .product-detail a:hover{
       text-decoration: none;
   }
