@@ -34,7 +34,7 @@
 .stellarnav.light li a { color: #000; }
 
 /* dark theme */
-.stellarnav.dark { }
+.stellarnav.dark { background: #e9ecef; }
 .stellarnav.dark a { color: #FFF; }
 .stellarnav.dark ul ul { background:rgb(240, 240, 240) ; }
 .stellarnav.dark li a { color: rgb(17, 17, 17); }
